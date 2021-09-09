@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4" : {
+            "getgigwp\\" : "./class" 
+        }
+    },
+    "config": {
+        "vendor-dir": "vendor-getgigwp"
+    }
+}
